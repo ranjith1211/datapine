@@ -16,12 +16,12 @@ function NavBar() {
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="me-auto"></Nav>
             <Nav variant="dark">
-              <Nav.Link href="#features">PRODUCT</Nav.Link>
-              <Nav.Link href="#pricing">SOLUTIONS</Nav.Link>
-              <Nav.Link href="#deets">SERVICES</Nav.Link>
-              <Nav.Link href="#deets">LEARN</Nav.Link>
-              <Nav.Link href="#deets">COMPANY</Nav.Link>
-              <Nav.Link href="#deets">EN</Nav.Link>
+              <Nav.Link href="#">PRODUCT</Nav.Link>
+              <Nav.Link href="#">SOLUTIONS</Nav.Link>
+              <Nav.Link href="#">SERVICES</Nav.Link>
+              <Nav.Link href="#">LEARN</Nav.Link>
+              <Nav.Link href="#">COMPANY</Nav.Link>
+              <Nav.Link href="#">EN</Nav.Link>
               <Button variant="success">Trial</Button>{" "}
             </Nav>
           </Navbar.Collapse>
